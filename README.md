@@ -1,0 +1,3 @@
+## Cybersecurity Attack Classification
+
+In this project, I performed a classification of cybersecurity attacks utilizing key concepts of machine learning. I implemented a neural network model to effectively classify various types of attacks, enhancing the understanding of their patterns and characteristics. This work aims to contribute to the field of cybersecurity by leveraging advanced techniques to improve threat detection and response strategies.
